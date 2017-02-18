@@ -1,0 +1,946 @@
+body {
+    font-family: "微软雅黑";
+    background: #f1f1f1
+}
+
+.gray3 {
+    color: #333
+}
+
+.gray6 {
+    color: #666
+}
+
+.gray9 {
+    color: #999
+}
+
+.bg1 {
+    background-color: #f1f1f1
+}
+
+.main {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    top: -30px
+}
+
+.top_bg {
+    height: 30px;
+    background: #2E2E2E
+}
+
+.left_box {
+    width: 300px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #ca1420;
+    padding-bottom: 100px
+}
+
+.left_box_top {
+    border-bottom: 2px solid #be0d19;
+    padding-bottom: 40px
+}
+
+.left_box_topinner {
+    margin: 0 15px 0 20px
+}
+
+.left_box_top
+.fl_tb {
+    margin-top: 65px
+}
+
+.left_box_top
+.title {
+    font-size: 18px;
+    color: #fff;
+    margin-top: 40px
+}
+
+.left_box_top
+ul {
+    color: #fff;
+    margin-top: 30px
+}
+
+.left_box_top ul
+li {
+    font-size: 14px;
+    line-height: 24px
+}
+
+.left_box_top ul li
+span {
+    margin-right: 10px
+}
+
+.left_box_rest {
+    margin-top: 40px;
+    margin: 0 15px 0 20px
+}
+
+.left_box_rest
+.title {
+    font-size: 18px;
+    color: #fff;
+    margin-top: 40px;
+    border: 1px dashed #fff;
+    width: 180px;
+    border-left: none
+}
+
+.left_box_rest .title
+span {
+    background: #fff;
+    color: #ca1420;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 12px;
+    border: 1px solid #fff
+}
+
+.left_box_rest
+.left_inner {
+    margin-top: 30px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px
+}
+
+.left_box
+.hb_tel {
+    margin-top: 40px
+}
+
+.main_con {
+    width: 690px;
+    padding-left: 10px;
+    border-left: 0px solid #ca1420
+}
+
+.main_con
+form {
+    background-color: #fff
+}
+
+.top_con {
+    font-size: 12px;
+    color: #999;
+    line-height: 30px;
+    background: #2e2e2e;
+    margin-left: -10px;
+    padding-left: 10px
+}
+
+.jump_link {
+    background: url(/images/simu/assessment/jump_icon.png) no-repeat right center;
+    color: #ca1420;
+    padding-right: 22px;
+    font-size: 16px
+}
+
+.jp1 {
+    position: absolute;
+    top: 58px;
+    left: 570px
+}
+
+.jp2 {
+    position: absolute;
+    top: 42px;
+    top: 42px \9;
+    left: 565px
+}
+
+.top_con
+.ts {
+    margin-left: 2px;
+    display: inline-block
+}
+
+.top_con
+.lj {
+    float: right;
+    display: inline-block
+}
+
+.top_con .lj
+a {
+    color: #999
+}
+
+.main_con_top {
+    background: #fff;
+    padding: 40px 0 0 20px;
+    position: relative
+}
+
+.main_con_top
+h1 {
+    font-size: 36px;
+    color: #ca1420
+}
+
+.main_con_top
+ul {
+    color: #bababa;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 25px
+}
+
+.main_con_top ul li
+span {
+    margin-right: 10px;
+    width: 4px;
+    height: 4px;
+    display: inline-block;
+    background: #cacaca;
+    vertical-align: middle
+}
+
+.xinxi_box {
+    background: #fff;
+    padding: 40px 0 10px 20px;
+    margin-top: 1px
+}
+
+.xinxi_box .xm_box, .sj_box {
+    width: 300px;
+    position: relative;
+    margin-bottom: 20px
+}
+
+.xinxi_box .xm_box p, .xinxi_box .sj_box
+p {
+    font-size: 14px;
+    color: #666;
+    width: 50px;
+    line-height: 36px;
+    text-align: right
+}
+
+.xinxi_box .xm_box
+input {
+    position: absolute;
+    line-height: 34px;
+    top: 0;
+    left: 50px;
+    height: 34px;
+    _height: 34px;
+    padding-left: 20px;
+    color: #999;
+    font-size: 16px;
+    font-family: "微软雅黑";
+    border: 1px solid #cacaca;
+    margin-left: 10px
+}
+
+.xinxi_box .sj_box
+input {
+    position: absolute;
+    line-height: 34px;
+    top: 0;
+    left: 50px;
+    height: 34px;
+    _height: 34px;
+    padding-left: 20px;
+    color: #999;
+    font-size: 16px;
+    font-family: "微软雅黑";
+    margin-left: 10px
+}
+
+.out_xixin_box {
+    background: #fff;
+    margin-top: 1px;
+    padding: 50px 10px 0 10px
+}
+
+.out_xixin_box
+.title {
+    color: #333;
+    font-size: 18px
+}
+
+.out_xixin_box
+.title_line {
+    margin-top: 5px
+}
+
+.out_xixin_box
+table {
+    margin-top: 40px
+}
+
+.out_xixin_box table
+tr {
+    height: 60px
+}
+
+.out_xixin_box table
+td {
+    color: #666;
+    font-size: 14px;
+    line-height: 40px;
+    text-align: right
+}
+
+.out_xixin_box table td
+input {
+    float: left;
+    line-height: 34px;
+    margin-left: 10px;
+    padding-left: 20px;
+    width: 198px;
+    font-size: 16px;
+    height: 34px;
+    _height: 34px;
+    font-family: "微软雅黑";
+    border: 1px solid #cacaca
+}
+
+.que_box
+.que_title {
+    margin: 20px 5px;
+    line-height: 36px;
+    background: #f9f9f9;
+    font-size: 16px;
+    color: #333;
+    padding-left: 25px;
+    white-space: nowrap
+}
+
+.que_box
+.xz_box {
+    margin-top: 15px;
+    margin-left: 60px
+}
+
+.que_box .xz_box
+span {
+    font-size: 14px;
+    color: #666;
+    line-height: 20px;
+    display: inline-block;
+    width: 80px;
+    margin-right: 60px;
+    white-space: nowrap;
+    _margin-right: 50px;
+    cursor: pointer;
+    position: relative
+}
+
+.que_box .xz_box span
+i {
+    vertical-align: bottom;
+    margin-right: 2px
+}
+
+.que_box .xz_box .span_in
+i {
+    background: url(/images/simu/assessment/icon2_hong.png) no-repeat center left;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute
+}
+
+.que_box .xz_box .span_on
+i {
+    background: url(/images/simu/assessment/icon2_bai.png) no-repeat center left;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute
+}
+
+.que_box .xz_box .span_in
+input {
+    margin-right: 10px
+}
+
+.que_box .xz_box .span_on
+input {
+    margin-right: 10px
+}
+
+.que_box .xz_box
+.qt_inner {
+    width: 35px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid #b8b8b8;
+    width: 75px;
+    margin-left: -50px;
+    line-height: 20px
+}
+
+.que_box
+.xz_box2 {
+    margin-top: 15px;
+    margin-left: 60px
+}
+
+.que_box .xz_box2 span, .que_box .xz_box2
+span {
+    font-size: 14px;
+    color: #666;
+    line-height: 20px;
+    display: inline-block;
+    width: 300px;
+    white-space: nowrap;
+    cursor: pointer
+}
+
+.que_box .xz_box2 span i, .que_box .xz_box2 span
+i {
+    vertical-align: bottom;
+    margin-right: 2px
+}
+
+.que_box .xz_box2 .span_in
+i {
+    background: url(/images/simu/assessment/icon2_hong.png) no-repeat center left;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute
+}
+
+.que_box .xz_box2 .span_on
+i {
+    background: url(/images/simu/assessment/icon2_bai.png) no-repeat center left;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute
+}
+
+.que_box .xz_box2
+.qt_inner {
+    width: 35px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid #b8b8b8;
+    width: 75px
+}
+
+.main_message_que {
+    background: #fff;
+    padding: 0 10px 20px;
+    border-bottom: 1px solid #f0f1f1
+}
+
+.main_message_que
+.que_title {
+    margin: 10px 5px 0;
+    line-height: 36px;
+    background: #f9f9f9;
+    font-size: 16px;
+    color: #333;
+    padding-left: 25px
+}
+
+.main_message_que
+.main_que_box {
+    margin-left: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+
+.main_message_que
+.main_que_box2 {
+    margin-left: 60px;
+    padding-top: 10px
+}
+
+.que_box .xz_box2 .span_in
+input {
+    margin-right: 10px
+}
+
+.que_box .xz_box2 .span_on
+input {
+    margin-right: 10px
+}
+
+.main_message_que .main_que_box
+.span_on {
+    vertical-align: middle;
+    margin-right: 2px;
+    position: relative;
+    font-size: 14px;
+    color: #666;
+    line-height: 35px;
+    display: inline-block;
+    width: 275px;
+    _height: 50px;
+    cursor: pointer;
+    margin-top: 5px;
+    z-index: 5;
+    padding-left: 20px
+}
+
+.main_message_que .main_que_box
+.span_in {
+    vertical-align: middle;
+    margin-right: 2px;
+    position: relative;
+    font-size: 14px;
+    color: #666;
+    line-height: 35px;
+    display: inline-block;
+    width: 275px;
+    _height: 50px;
+    cursor: pointer;
+    margin-top: 5px;
+    padding-left: 20px
+}
+
+.main_message_que .main_que_box .span_in
+i {
+    background: url(/images/simu/assessment/icon_hong.png) no-repeat center left;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -8px;
+    top: 8px;
+    _left: -3px;
+    _top: 2px;
+    *left: -3px !important;
+    z-index: 5
+}
+
+.main_message_que .main_que_box .span_in
+input {
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    _left: -3px;
+    _top: 0;
+    *left: -3px !important;
+    z-index: 3
+}
+
+.main_message_que .main_que_box .span_on
+i {
+    background: url(/images/simu/assessment/icon_bai.png) no-repeat center center;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -8px;
+    top: 8px;
+    _left: -3px;
+    _top: 2px;
+    *left: -3px !important;
+    z-index: 5
+}
+
+.main_message_que .main_que_box .span_on
+input {
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    _left: -3px;
+    _top: 0;
+    *left: -3px !important;
+    z-index: 3
+}
+
+.main_message_que .main_que_box2
+span {
+    font-size: 14px;
+    color: #666;
+    line-height: 35px;
+    display: block;
+    _height: 35px;
+    cursor: pointer;
+    position: relative;
+    padding-left: 20px
+}
+
+.main_message_que .main_que_box2 span
+i {
+    vertical-align: middle;
+    margin-right: 2px
+}
+
+.main_message_que .main_que_box2 .span_in
+i {
+    background: url(/images/simu/assessment/icon_hong.png) no-repeat center center;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -8px;
+    top: 8px;
+    *left: -2px;
+    *top: 0;
+    z-index: 5
+}
+
+.main_message_que .main_que_box2 .span_in
+input {
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    *left: -2px;
+    *top: 0;
+    z-index: 2
+}
+
+.main_message_que .main_que_box2 .span_on
+i {
+    background: url(/images/simu/assessment/icon_bai.png) no-repeat center center;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -8px;
+    top: 8px;
+    *left: -2px;
+    *top: 0;
+    z-index: 5
+}
+
+.main_message_que .main_que_box2 .span_on
+input {
+    position: absolute;
+    left: -5px;
+    top: 8px;
+    *left: -2px;
+    *top: 0;
+    z-index: 2
+}
+
+.footer_box {
+    background: left top #fff;
+    text-align: center;
+    width: 670px;
+    padding: 30px 10px 20px;
+    position: fixed;
+    bottom: 0;
+    z-index: 999
+}
+
+.que_main {
+    background-color: #fff;
+    padding-bottom: 100px
+}
+
+.footer_box
+.btn_tj {
+    display: block;
+    text-align: center;
+    padding-right: 150px
+}
+
+.footer_box .btn_tj
+input {
+    display: inline-block;
+    width: 160px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    background: #ca1420;
+    color: #fff;
+    border: 1px solid #ca1420;
+    text-decoration: none;
+    border-radius: 5px
+}
+
+.footer_box
+.select {
+    color: #999;
+    font-size: 12px;
+    position: relative;
+    margin-top: 15px;
+    padding-left: 18px;
+    height: 15px;
+    line-height: 15px
+}
+
+.footer_box .select
+input {
+    vertical-align: middle;
+    margin-right: 4px
+}
+
+.footer_box .select
+label {
+    vertical-align: middle;
+}
+
+.footer_box .btn_tj a:hover {
+    background: #ca1420;
+    color: #fff
+}
+
+.footer_box
+.jieshao {
+    margin-top: 80px;
+    text-align: right;
+    color: #cacaca;
+    font-size: 12px
+}
+
+.jg_top {
+    height: 30px;
+    background: #2e2e2e
+}
+
+.jg_top
+.jg_top_inner {
+    width: 1000px;
+    margin: 0 auto
+}
+
+.jg_top
+.ts {
+    margin-left: 2px;
+    display: inline-block;
+    color: #999;
+    line-height: 30px
+}
+
+.jg_top
+.lj {
+    float: right;
+    display: inline-block;
+    line-height: 30px;
+    color: #999
+}
+
+.jg_top .lj
+a {
+    color: #999
+}
+
+.jg_footer {
+    margin-top: 50px;
+    border-top: 1px solid #f0f1f1;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.jg_footer
+.tel {
+    background: url(/images/simu/assessment/tel_jg.png) no-repeat left center;
+    height: 50px;
+    margin-left: 145px;
+    padding-left: 60px;
+    font-size: 18px;
+    color: #333;
+    line-height: 24px;
+    border-right: 1px solid #f0f1f1;
+    padding-right: 20px;
+    _margin-left: 73px
+}
+
+.jg_footer .tel
+span {
+    font-size: 24px;
+    color: #ca1420;
+    font-weight: bold
+}
+
+.jg_footer
+.zr {
+    margin-left: 415px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333
+}
+
+.jg_footer .zr
+span {
+    color: #ca1420
+}
+
+.que_content {
+    padding: 30px 0 0 20px
+}
+
+.que_content
+.s1 {
+    padding: 10px 0 0
+}
+
+.que_content
+ul {
+    width: 610px;
+    margin-bottom: 10px
+}
+
+.que_content ul
+li {
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+
+.que_content ul li
+a {
+    display: inline-block;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ca1420;
+    border-radius: 5px;
+    color: #ca1420
+}
+
+.que_content ul li a:hover {
+    text-decoration: none
+}
+
+.que_content ul li.on
+a {
+    background-color: #ca1420;
+    color: #fff
+}
+
+.que_tips {
+    color: #b4b4b4;
+    font-size: 14px;
+    margin: 25px 0 25px 20px;
+    vertical-align: middle
+}
+
+.que_tips
+span {
+    font-weight: bold
+}
+
+.jg_main {
+    position: relative;
+    background: #fff;
+    border-top: 1px solid #f0f1f1;
+    border-bottom: 1px solid #f0f1f1;
+    margin-top: 10px;
+    padding: 32px 0 30px 20px
+}
+
+.jg_main
+.test_link {
+    position: absolute;
+    top: 15px;
+    left: 585px;
+    color: #bcbcbc
+}
+
+.jg_content
+.pic {
+    width: 137px;
+    height: 137px;
+    float: left
+}
+
+.jg_content
+.bs_pic {
+    background: url(/images/simu/assessment/bs_pic.png) no-repeat
+}
+
+.jg_content
+.cz_pic {
+    background: url(/images/simu/assessment/cz_pic.png) no-repeat
+}
+
+.jg_content
+.ph_pic {
+    background: url(/images/simu/assessment/ph_pic.png) no-repeat
+}
+
+.jg_content
+.qj_pic {
+    background: url(/images/simu/assessment/jq_pic.png) no-repeat
+}
+
+.jg_content
+.wj_pic {
+    background: url(/images/simu/assessment/wj_pic.png) no-repeat
+}
+
+.jg_content
+.jg_txt {
+    float: right;
+    width: 500px
+}
+
+.jg_tip {
+    font-size: 16px;
+    color: #666;
+    text-align: left
+}
+
+.jg_content
+.jg_txt {
+    font-size: 16px;
+    padding-top: 48px
+}
+
+.jg_content .jg_txt
+span {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0 10px
+}
+
+.jg_content
+.bs_type {
+    color: #5a93b4
+}
+
+.jg_content
+.cz_type {
+    color: #e35b35
+}
+
+.jg_content
+.ph_type {
+    color: #a68bbb
+}
+
+.jg_content
+.jq_type {
+    color: #e33535
+}
+
+.jg_content
+.wj_type {
+    color: #ffa030
+}
+
+.jg_tip {
+    padding: 48px 0 0 15px
+}
+
+.know_link {
+    display: inline-block;
+    width: 160px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    background: #ca1420;
+    color: #fff;
+    border: 1px solid #ca1420;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 0 0 452px
+}
+
+.know_link:hover {
+    text-decoration: none;
+    color: #fff
+}

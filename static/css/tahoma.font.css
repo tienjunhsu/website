@@ -1,0 +1,193 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=EidOQW82QWb1Qs4tAAhmC_esZW2xOQ-xsNqO47m55DA&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=jNku2AAYcpd9xydwEGbwnfesZW2xOQ-xsNqO47m55DA&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=xcaDjEuLNgH1jcElPZ46v_esZW2xOQ-xsNqO47m55DA&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=xCwUbSSTo2nEtjybxd09YPesZW2xOQ-xsNqO47m55DA&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=Z_5wfCbanwmVVGrTKZIt9fesZW2xOQ-xsNqO47m55DA&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tahoma'), url(http://fonts.gstatic.com/l/font?kit=FjtPnQNs4_A_6qbTEDtLIg&skey=9d22fae1754942f6&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=H8nebT5-Cz0tg0N7UEroURJtnKITppOI_IvcXXDNrsc&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=TWCvOMyHogy1VEWzcaw7IxJtnKITppOI_IvcXXDNrsc&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=Prx2OTRkYtP9EyiX4K3sjBJtnKITppOI_IvcXXDNrsc&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=6UZQF2rQOA9jslTXSpi5nRJtnKITppOI_IvcXXDNrsc&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=0MfEFLUakMjeBj77Cy0jChJtnKITppOI_IvcXXDNrsc&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tahoma Negreta'), local('Tahoma-Bold'), url(http://fonts.gstatic.com/l/font?kit=UZitz9TRmpLL1nUOXSmd71tXRa8TVwTICgirnJhmVJw&skey=325a0ea84e3a99&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/* cyrillic */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica LT Pro'), local('HelveticaLTPro-Roman'), url(http://fonts.gstatic.com/l/font?kit=kmUdq77jCa0yxLjh28JQLhJtnKITppOI_IvcXXDNrsc&skey=22efecd2bc0e2cb0&v=v2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica LT Pro'), local('HelveticaLTPro-Roman'), url(http://fonts.gstatic.com/l/font?kit=dUqp34B6S7dOmm6phzy25xJtnKITppOI_IvcXXDNrsc&skey=22efecd2bc0e2cb0&v=v2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica LT Pro'), local('HelveticaLTPro-Roman'), url(http://fonts.gstatic.com/l/font?kit=t49DroSG8rMwBhRWk1Z_cltXRa8TVwTICgirnJhmVJw&skey=22efecd2bc0e2cb0&v=v2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold'), local('HelveticaLTPro-Bold'), url(http://fonts.gstatic.com/l/font?kit=OMt_AAHQKK0-XFfWIcUcr5X5f-9o1vgP2EXwfjgl7AY&skey=c9794b4fcbed8443&v=v2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold'), local('HelveticaLTPro-Bold'), url(http://fonts.gstatic.com/l/font?kit=OMt_AAHQKK0-XFfWIcUcrz0LW-43aMEzIO6XUTLjad8&skey=c9794b4fcbed8443&v=v2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold'), local('HelveticaLTPro-Bold'), url(http://fonts.gstatic.com/l/font?kit=OMt_AAHQKK0-XFfWIcUcr-gdm0LZdjqr5-oayXSOefg&skey=c9794b4fcbed8443&v=v2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Helvetica LT Pro Oblique'), local('HelveticaLTPro-Oblique'), url(http://fonts.gstatic.com/l/font?kit=UYIjJqrVbH5ZQf0P7gvVcDUj_cnvWIuuBMVgbX098Mw&skey=eceee293272e3479&v=v2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Helvetica LT Pro Oblique'), local('HelveticaLTPro-Oblique'), url(http://fonts.gstatic.com/l/font?kit=UYIjJqrVbH5ZQf0P7gvVcCYE0-AqJ3nfInTTiDXDjU4&skey=eceee293272e3479&v=v2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Helvetica LT Pro Oblique'), local('HelveticaLTPro-Oblique'), url(http://fonts.gstatic.com/l/font?kit=UYIjJqrVbH5ZQf0P7gvVcI4P5ICox8Kq3LLUNMylGO4&skey=eceee293272e3479&v=v2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold Oblique'), local('HelveticaLTPro-BoldOblique'), url(http://fonts.gstatic.com/l/font?kit=hz6s9RjVPqZFdnheAT7zUC_vZmeiCMnoWNN9rHBYaTc&skey=92d2ef5924a98f16&v=v2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold Oblique'), local('HelveticaLTPro-BoldOblique'), url(http://fonts.gstatic.com/l/font?kit=hz6s9RjVPqZFdnheAT7zUOjkDdvhIIFj_YMdgqpnSB0&skey=92d2ef5924a98f16&v=v2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Helvetica LT Pro Bold Oblique'), local('HelveticaLTPro-BoldOblique'), url(http://fonts.gstatic.com/l/font?kit=hz6s9RjVPqZFdnheAT7zUIlIZu-HDpmDIZMigmsroc4&skey=92d2ef5924a98f16&v=v2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}

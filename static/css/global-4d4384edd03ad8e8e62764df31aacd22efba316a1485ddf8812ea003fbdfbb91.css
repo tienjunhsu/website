@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+body {
+    width: 100%;
+    background-color: #f5f5f5;
+    font-family: 'Microsoft Yahei', Helvetica, Tahoma, arial, sans-serif;
+}
+
+h2 {
+    font-size: 60px
+}
+
+h3 {
+    font-size: 54px
+}
+
+h4 {
+    font-size: 46px
+}
+
+h5 {
+    font-size: 30px
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px
+}
+
+a, a:hover {
+    color: #fff;
+    text-decoration: none;
+    outline: none
+}
+
+.hide {
+    display: none
+}
+
+.clear {
+    display: block;
+    zoom: 1;
+    overflow: hidden
+}
+
+.text-right {
+    text-align: right
+}
+
+.text-left {
+    text-align: left
+}
+
+.fixed-right {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 76%;
+    height: 100%
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 24%;
+    min-width: 220px;
+    color: #7f7f7f;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 50px;
+    background-color: #292929;
+    background:url("/static/img/nav_bg.png");
+}
+
+nav ul {
+    padding-top: 115px
+}
+
+nav ul li {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding-left: 31%;
+    padding-bottom: 40px
+}
+
+nav ul li a, nav ul li a:hover {
+    color: #979797
+}
+
+nav ul li.active a, nav ul li:hover a {
+    color: #cdb385
+}
+
+nav ul li:last-of-type {
+    padding-bottom: 330px
+}
+
+nav p {
+    font-size: 12px;
+    padding-top: 20px
+}
+
+@media (max-width: 1440px) {
+    h2 {
+        font-size: 50px
+    }
+
+    h3 {
+        font-size: 40px
+    }
+
+    h4 {
+        font-size: 30px
+    }
+
+    h5 {
+        font-size: 24px
+    }
+
+    nav {
+        padding-top: 50px
+    }
+
+    nav ul {
+        padding-top: 50px
+    }
+
+    nav ul li {
+        padding-left: 28%;
+        padding-bottom: 20px
+    }
+
+    nav ul li:last-of-type {
+        padding-bottom: 130px
+    }
+}
+
+.nav-logo {
+    width: 160px;
+    height: 160px;
+
+
+}

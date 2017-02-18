@@ -1,0 +1,118 @@
+.questionnaire-notice-section {
+    display: none;
+    background-size: cover;
+    height: 660px;
+}
+
+.questionnaire-notice-section .notice-div {
+    /*color: #fff;*/
+    /*background-color: #ff4455;*/
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 36px;
+    margin-bottom: 20px;
+}
+
+.questionnaire-notice-section .notice-div p {
+    margin-bottom: 30px;
+}
+
+.questionnaire-notice-section .notice-div p.p-indent {
+    text-indent: 40px;
+}
+
+.questionnaire-notice-section .choose-type-div {
+    margin-top: 56px;
+    text-align: center;
+}
+
+.questionnaire-notice-section .choose-type-div .title {
+    line-height: 1;
+    margin-bottom: 27px;
+}
+
+.questionnaire-notice-section .choose-type-div .questionnaire-type-btn {
+    background-color: #ff4455;
+    text-align: center;
+    border: 1px solid #ff4455;
+    color: #fff;
+    line-height: 57px;
+    height: 57px;
+    padding: 0px 30px;
+    margin: 0px 34px;
+}
+
+.questionnaire-notice-section .choose-type-div .questionnaire-type-btn:hover {
+    opacity: 0.9;
+}
+
+.questionnaire-financial-condition-section {
+    display: none;
+    height: 660px;
+    background-color: #f3f6f5;
+}
+
+.questionnaire-financial-condition-section h2 {
+    margin-top: 65px;
+    margin-bottom: 70px;
+    line-height: 1;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.questionnaire-financial-condition-section .financial-condition-list {
+    width: 725px;
+    margin: 0 auto;
+}
+
+.questionnaire-financial-condition-section .financial-condition-list label {
+    font-weight: 100;
+    max-width: 600px;
+}
+
+.questionnaire-financial-condition-section .financial-condition-list .pull-right {
+    width: 150px;
+}
+
+.questionnaire-financial-condition-section .financial-condition-list .pull-right label {
+    margin: 0 10px;
+}
+
+.questionnaire-financial-condition-section .financial-condition-list .financial-condition-item {
+    margin-bottom: 40px;
+}
+
+.questionnaire-financial-condition-section .questionnaire-financial-condition-btn {
+    background-color: #ff4455;
+    text-align: center;
+    border: 1px solid #ff4455;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    width: 300px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0px 34px;
+    margin: 0 auto;
+    display: block;
+}
+
+.questionnaire-financial-condition-section .questionnaire-financial-condition-btn:hover {
+    opacity: 0.9;
+}
+
+.questionnaire-financial-condition-section .questionnaire-fail-btn {
+    display: none;
+    width: 100%;
+    line-height: 56px;
+    height: 56px;
+    background-image: url(/static/img/fail_btn_bg.jpg);
+    background-repeat: repeat-x;
+    border: 0px;
+    color: #fff;
+}
+
+.questionnaire-financial-condition-section .questionnaire-fail-btn:hover {
+    opacity: .9;
+}
